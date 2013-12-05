@@ -1,7 +1,7 @@
 == README
 
 This README would normally document whatever steps are necessary to get the
-application up and running.
+application up and running. For GVIM on Windows 7, I had to Download it, then specify the correct path, and then use the command gvim instead of vi. 
 
 Things you may want to cover:
 
